@@ -5,7 +5,7 @@ meta_description: "David Lam, Technology Blog"
 aboutPage: true
 
 markdown: kramdown
-highlighter: pygments
+highlighter: rouge
 
 paginate: 20
 baseurl: /
